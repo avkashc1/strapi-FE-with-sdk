@@ -1,4 +1,4 @@
-export const API_URL = "http://cb5df74f3f68.ngrok.io";
+export const API_URL = "http://localhost:1337";
 export const AUTH = "/auth";
 export const LOGIN_API = "/local";
 export const REGISTER_API = "/local/register";
